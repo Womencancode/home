@@ -1,0 +1,781 @@
+{
+ "id": "womencancode",
+ "name": "WomenCanCode",
+ "domain": "womencancode.com",
+ "theme": "#14121f",
+ "tagline": "Build real software with AI, and understand it well enough to own it.",
+ "audience": {
+  "label": "women",
+  "definition": "Anyone who identifies as a woman."
+ },
+ "keywords": [
+  "build software with AI",
+  "coding for women",
+  "AI pair programming",
+  "GitHub Skills",
+  "launch your own website"
+ ],
+ "copy": {
+  "wordmark": "Women<em>Can</em>Code",
+  "abc": "Build with AI · Own what you ship",
+  "footer.line": "Courses we point to belong to the people who make them, including GitHub Skills. We link to them and never copy them.",
+  "ask.name": "Ask WomenCanCode",
+  "events.description": "Coding events, hack days and observances for women learning to code, online and around the world.",
+  "opportunities.description": "Free courses, programmes and ways in for women learning to code, many of them online.",
+  "stories.description": "Good news from women building software with AI: first launches, first tools, first users.",
+  "showcase.description": "Sites, apps and projects women built while learning to code, each linking to where it lives.",
+  "showcase.h1": "Built by women with AI",
+  "talent.from": "Women coding in {country}",
+  "talent.h1": "Women Can Code, A to Z",
+  "watch.description": "Official videos from free coding courses and the communities around them.",
+  "submit.lead.start": "Anyone can add to WomenCanCode.",
+  "submit.description": "Share a project you built, a free course you rate, or a correction. Every submission is reviewed before publication.",
+  "submit.example": "I finished the Odin Project Foundations recipe project and put it on GitHub Pages this week. https://...",
+  "countries.lead": "with women learning to code there.",
+  "countries.description": "Women learning to code in all {n} countries and territories.",
+  "country.from": "from women in {where}",
+  "country.diaspora": " and abroad",
+  "country.empty": "This page is waiting for its first project. Share what you built.",
+  "country.title.tail": "women learning to code",
+  "country.description": "Projects and good news from women learning to code in {where}",
+  "home.h1": "You CAN Code.",
+  "home.description": "Calling all women: you CAN code. Write real code, with AI as your pair programmer and an instructor alongside. Day 1 is open now.",
+  "org.description": "Women who build real software with AI and understand it well enough to own it: a 10-day build, live with the founder, using GitHub Skills.",
+  "home.showcase.lead": "Sites and projects women built while learning.",
+  "map.description": "Where women are learning to code, from the whole world down to the city.",
+  "doors.lead": "Free classes, programmes and communities that open the door to code for women.",
+  "llms.summary": "Women Can Code: women who build real software with AI, and understand it well enough to own it. In 10 days you ship a working tool for your own life, job or business, with AI as your pair programmer and the founder live alongside you. The days follow GitHub Skills exercises (credited to GitHub, linked, never rehosted) in your own GitHub account. Day 1 is open to everyone; the full 10 days, with live calls, open with the first wave, and you can register interest now. Everyone who finishes gets a free product to keep: their tool hosted on Ontold, their own domain set up, and a listing on the womenintech.me outputs leaderboard, on terms the founder confirms.",
+  "talent.description": "A directory of women coding, by country.",
+  "doors.description": "Free coding classes, programmes and communities for women.",
+  "llms.about": "what Women Can Code is: building your own software with AI, and the 10 days",
+  "home.intro": "Women learning to code, from {n} countries. {covered} lit so far.",
+  "doors.rail": "Free classes and communities that open the door to code.",
+  "llms.doors": "free coding classes, programmes and communities for women",
+  "events.lead": "Coding events and observances for women learning to code. Dates that move are marked as approximate.",
+  "speakers.lead": "Women who teach and talk about code, to invite to your event. Every name links to a public page about her work."
+ },
+ "about": {
+  "lead": "Women Can Code is for women who build real software with AI, and understand it well enough to own it. The skill is not memorising syntax. It is describing what you want, reading what the AI made, spotting when it is wrong and fixing it, putting it live, and keeping it safe.",
+  "description": "What {name} is for: building your own software with AI, and understanding it well enough to own it.",
+  "sections": [
+   {
+    "h": "What you learn",
+    "q": "What does {name} teach?",
+    "html": "Five things, on a real project of your own: describing what you want, reading what the AI made, spotting when it is wrong and fixing it, putting it live, and keeping it safe (data, keys, privacy and costs). See <a href=\"/challenge\">the 10 days</a>."
+   },
+   {
+    "h": "How it differs from WomenWithAI",
+    "q": "How is this different from WomenWithAI?",
+    "html": "WomenWithAI is about using AI in everyday life and work. {name} is about building your own software with AI."
+   },
+   {
+    "h": "GitHub Skills, credited",
+    "q": "Whose courses are these?",
+    "html": "The days follow free GitHub Skills exercises, made and run by GitHub, in your own GitHub account. We link to them and never copy them, and GitHub does not endorse us. Other free courses (The Odin Project, freeCodeCamp, MDN, CS50, Python for Everybody) are on the <a href=\"/tracks\">go deeper shelf</a>."
+   },
+   {
+    "h": "Who it is for",
+    "q": "Who is {name} for?",
+    "html": "Anyone who identifies as a woman and has something she wants to build: for her own life, her job or her business. No experience needed."
+   },
+   {
+    "h": "Corrections",
+    "q": "How do I correct something?",
+    "html": "If a course changes, moves or stops being free, <a href=\"/submit?kind=correction\">tell us</a> and we will fix or remove it."
+   }
+  ]
+ },
+ "guidelines": {
+  "description": "The rules moderators apply to every WomenABC submission: true, positive, kind, properly credited, and about women.",
+  "sections": [
+   {
+    "h": "1. It is true",
+    "html": "Name the people, say when it happened, and give a source or an official page if there is one. If a moderator cannot confirm it, it waits. Personal achievements that are not public record (a graduation, a first exhibition, a small business opening) are welcome when the person themselves or someone close to them submits them."
+   },
+   {
+    "h": "2. It went right",
+    "html": "An award, a record, a release, a launch, a rescue, a repair, a reunion. The test: would the people in it be glad to see it here?"
+   },
+   {
+    "h": "3. Nobody is put down",
+    "html": "No entry is built on someone else's failure, and nothing here mocks, shames or exposes anyone. That includes rivals, other countries, men, and other women."
+   },
+   {
+    "h": "4. The work is theirs",
+    "html": "Submit links to the official page, the publisher, the label, the gallery or the article, not to copies. We do not host files; we point to where the work lives."
+   },
+   {
+    "h": "5. It is about women",
+    "html": "People who identify as women, anywhere; we take a person's own description and do not question it. Groups and teams count when women are at the heart of them."
+   },
+   {
+    "h": "6. No advertising, no politics for its own sake",
+    "html": "A product launch by a woman founder is a story. An advert is not. A woman elected to office is a story; campaigning is not. Open doors into public life list the way in (a placement, a public appointment, how to stand as a councillor) and never a party or a position; a scheme run by one party is listed only beside the equivalent from every other. Moderators use judgement and err towards kindness."
+   },
+   {
+    "h": "Privacy",
+    "html": "Your email is never shown and is used only to ask you a question about your submission. Your name is shown as \"shared by\" only if you give it. We store a one-way hash of your network address for one hour to slow down floods, not the address itself."
+   },
+   {
+    "h": "Corrections and removals",
+    "html": "Anyone named in an entry can ask for it to be corrected or removed, and it will be. <a href=\"/submit?kind=correction\">Send a correction</a>."
+   }
+  ]
+ },
+ "layout": {
+  "home": [
+   {
+    "block": "wcc-hero"
+   },
+   {
+    "block": "wcc-coders"
+   },
+   {
+    "block": "wcc-proof"
+   },
+   {
+    "block": "wcc-instructor"
+   },
+   {
+    "block": "wcc-built"
+   },
+   {
+    "block": "wcc-skills"
+   },
+   {
+    "block": "alongside"
+   },
+   {
+    "block": "wcc-wave"
+   },
+   {
+    "block": "challenge"
+   },
+   {
+    "block": "wcc-tools"
+   },
+   {
+    "block": "wcc-deeper"
+   },
+   {
+    "block": "wcc-levels"
+   },
+   {
+    "block": "wcc-cta"
+   }
+  ]
+ },
+ "navHide": [
+  "/watch",
+  "/countries",
+  "/map",
+  "/open-doors",
+  "/stories",
+  "/speakers"
+ ],
+ "canonical": false,
+ "waitlist": {
+  "features": [
+   {
+    "id": "live-calls",
+    "label": "Live-call cohorts"
+   }
+  ]
+ },
+ "school": {
+  "hero": {
+   "eyebrow": "Calling All Women!",
+   "h1": "You <em>CAN</em> Code.",
+   "lead": "Real code, with AI as your pair programmer and an instructor alongside.",
+   "lead2": "In 10 days, ship a working tool for your own life, job or business. You finish with it live, and hosted free."
+  },
+  "skills": [
+   {
+    "title": "Describe",
+    "text": "Say what you want so the AI can build it."
+   },
+   {
+    "title": "Read",
+    "text": "Read what the AI made, line by line."
+   },
+   {
+    "title": "Fix",
+    "text": "Spot when it is wrong, and fix it."
+   },
+   {
+    "title": "Ship",
+    "text": "Put it live, at an address you can share."
+   },
+   {
+    "title": "Keep it safe",
+    "text": "Data, keys, privacy and costs."
+   }
+  ],
+  "sessions": {
+   "lead": "Each day follows a free GitHub Skills exercise in your own GitHub account. GitHub Actions checks each step as you go, and the founder walks through it live.",
+   "free": "Try it: Day 1 is open now. The 10 days, in two 5-day levels with live calls, open with the first wave.",
+   "when": "Dates, times and seats: To be announced.",
+   "steps": [
+    {
+     "title": "Describe it",
+     "text": "Say what you want to build, in plain words."
+    },
+    {
+     "title": "Build it with AI",
+     "text": "In your own GitHub repo, with AI as your pair programmer."
+    },
+    {
+     "title": "Read and fix it",
+     "text": "Understand what it made, and fix what is wrong, live."
+    },
+    {
+     "title": "Launch it",
+     "text": "Live on GitHub Pages, then hosted free on Ontold."
+    }
+   ]
+  },
+  "paid": {
+   "about": "Live video calls with your instructor for days 2 to 10. Bring what you built, and fix it together."
+  },
+  "instructor": {
+   "name": "",
+   "why": "",
+   "bio": "",
+   "photo": "",
+   "video": "",
+   "links": []
+  },
+  "differs": "Not the same as <a href=\"https://womenwithai.com\" rel=\"noopener\">WomenWithAI</a>: that is about using AI in everyday life and work. This is about building your own software with it.",
+  "community": {
+   "eyebrow": "The Women Can Code Community",
+   "h2": "A Real Community of Women Coding Together",
+   "lead": "Women Can Code is a London Meetup group. It says: \"Calling all Women! You CAN code. Let us meet to help you get into coding or improve your work or business prospects through coding.\"",
+   "facts": [
+    {
+     "n": "224",
+     "label": "members"
+    },
+    {
+     "n": "4.6",
+     "label": "rating, from 25 ratings"
+    },
+    {
+     "n": "52",
+     "label": "past events"
+    },
+    {
+     "n": "London",
+     "label": "where the group meets"
+    }
+   ],
+   "eventsTitle": "Some Past Events",
+   "events": [
+    {
+     "title": "Women Can Code brings you #IamRemarkable, a Google initiative",
+     "when": "December 2021, online"
+    },
+    {
+     "title": "Daily standups",
+     "when": "2021, online"
+    },
+    {
+     "title": "Google Coding Competition for Women, info sessions",
+     "when": "April 2021, online"
+    }
+   ],
+   "ruleTitle": "The House Rule",
+   "rule": "No recruiters or sales, unless they are sponsoring. This is a supportive community: by joining, you agree to collaborate and support.",
+   "back": "The group is coming back with Wave 1.",
+   "url": "https://www.meetup.com/womencancode/",
+   "linkLabel": "Women Can Code on Meetup",
+   "source": "Figures from the group's Meetup page."
+  },
+  "coders": {
+   "id": "women-who-code",
+   "eyebrow": "Proof, From History",
+   "h2": "They Could. You CAN.",
+   "lead": "Ada Lovelace is often considered the first computer programmer. Women have been coding ever since: programming languages, compilers, the Apollo flight software, the networks behind the internet.",
+   "people": [
+    {
+     "name": "Ada Lovelace",
+     "built": "Worked on Charles Babbage's analytical engine, and is often considered the first computer programmer.",
+     "source": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png/500px-Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png",
+     "credit": {
+      "by": "Antoine Claudet",
+      "licence": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png"
+     }
+    },
+    {
+     "name": "Grace Hopper",
+     "built": "Developed the FLOW-MATIC programming language, a major influence on COBOL, and was one of the first programmers on the Harvard Mark I.",
+     "source": "https://en.wikipedia.org/wiki/Grace_Hopper",
+     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Commodore_Grace_M._Hopper%2C_USN_%28covered%29_head_and_shoulders_crop.jpg/500px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29_head_and_shoulders_crop.jpg",
+     "credit": {
+      "by": "James S. Davis, US Navy",
+      "licence": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Commodore_Grace_M._Hopper,_USN_(covered)_head_and_shoulders_crop.jpg"
+     }
+    },
+    {
+     "name": "Dorothy Vaughan",
+     "built": "Taught herself and her staff the Fortran programming language at NASA Langley.",
+     "source": "https://en.wikipedia.org/wiki/Dorothy_Vaughan",
+     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dorothy_Vaughan_2.jpg/500px-Dorothy_Vaughan_2.jpg",
+     "credit": {
+      "by": "NASA",
+      "licence": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Dorothy_Vaughan_2.jpg"
+     }
+    },
+    {
+     "name": "Katherine Johnson",
+     "built": "Her orbital mechanics calculations were critical to the first US crewed spaceflights.",
+     "source": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/500px-Katherine_Johnson_1983.jpg",
+     "credit": {
+      "by": "NASA",
+      "licence": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Katherine_Johnson_1983.jpg"
+     }
+    },
+    {
+     "name": "Mary Jackson",
+     "built": "Started as a computer at NACA, and in 1958 became NASA's first black female engineer.",
+     "source": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mary_Jackson_1979_Portrait_%28LRC-1979-B701_P_F002-07086%29.jpg/500px-Mary_Jackson_1979_Portrait_%28LRC-1979-B701_P_F002-07086%29.jpg",
+     "credit": {
+      "by": "NASA Langley Research Center, Bob Nye",
+      "licence": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Mary_Jackson_1979_Portrait_(LRC-1979-B701_P_F002-07086).jpg"
+     }
+    },
+    {
+     "name": "Annie Easley",
+     "built": "A computer scientist who contributed to the beginning iterations of NASA's rocket technologies.",
+     "source": "https://en.wikipedia.org/wiki/Annie_Easley",
+     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Annie_Easley.jpg/500px-Annie_Easley.jpg",
+     "credit": {
+      "by": "NASA",
+      "licence": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Annie_Easley.jpg"
+     }
+    },
+    {
+     "name": "Frances Allen",
+     "built": "A pioneer of optimizing compilers, and in 2006 the first woman to win the Turing Award.",
+     "source": "https://en.wikipedia.org/wiki/Frances_E._Allen",
+     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Allen_mg_2528-3750K-b.jpg/500px-Allen_mg_2528-3750K-b.jpg",
+     "credit": {
+      "by": "Rama",
+      "licence": "CC BY-SA 2.0 FR",
+      "url": "https://commons.wikimedia.org/wiki/File:Allen_mg_2528-3750K-b.jpg"
+     }
+    },
+    {
+     "name": "Margaret Hamilton",
+     "built": "Led the development of the on-board flight software for NASA's Apollo Guidance Computer.",
+     "source": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Margaret_Hamilton_-_restoration.jpg/500px-Margaret_Hamilton_-_restoration.jpg",
+     "credit": {
+      "by": "restored by Adam Cuerden",
+      "licence": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg"
+     }
+    },
+    {
+     "name": "Barbara Liskov",
+     "built": "Introduced abstract data types and the Liskov substitution principle; 2008 Turing Award.",
+     "source": "https://en.wikipedia.org/wiki/Barbara_Liskov",
+     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Barbara_Liskov_MIT_computer_scientist_2010.jpg/500px-Barbara_Liskov_MIT_computer_scientist_2010.jpg",
+     "credit": {
+      "by": "Kenneth C. Zirkel",
+      "licence": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Barbara_Liskov_MIT_computer_scientist_2010.jpg"
+     }
+    },
+    {
+     "name": "Radia Perlman",
+     "built": "Invented the Spanning Tree Protocol, fundamental to how network bridges work.",
+     "source": "https://en.wikipedia.org/wiki/Radia_Perlman",
+     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Radia_Perlman_2009.jpg/500px-Radia_Perlman_2009.jpg",
+     "credit": {
+      "by": "Scientist-100 at English Wikipedia",
+      "licence": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Radia_Perlman_2009.jpg"
+     }
+    }
+   ]
+  }
+ },
+ "cohorts": {
+  "_booking": "Booking is off: no price or Eventbrite link is shown, and each cohort and the challenge show Register interest instead. price and every eventbrite field are kept here but unused until the founder sets booking to true.",
+  "booking": false,
+  "title": "Wave 1",
+  "lead": "Wave 1 runs as two groups. Choose Night Owls or the Day group: both follow the same 10 days, with live calls, recordings and the group chat.",
+  "price": {
+   "amount": 47,
+   "currency": "GBP",
+   "per": "month"
+  },
+  "notify": "/waitlist?for=live-calls",
+  "nav": false,
+  "copy": {
+   "what": "Live video calls for days 2 to 10. You build in your own GitHub account, following the day's GitHub Skills exercise, and on the calls your instructor walks through it, looks at what you built and helps you fix it.",
+   "blockTitle": "Wave 1",
+   "blockLead": "Try it: Day 1 is open now. 10 days in two 5-day levels; start with Level 1."
+  },
+  "items": [
+   {
+    "id": "night-owls",
+    "name": "Night Owls",
+    "for": "Online evenings, after bedtime. For women whose days are full.",
+    "about": "Same 10 days as the other group, with recordings of every live session and the group chat. Demo day and the certificate ceremony are shared, online.",
+    "starts": "",
+    "schedule": "",
+    "scheduleHint": "evenings, UK time, to be announced",
+    "seats": null,
+    "eventbrite": ""
+   },
+   {
+    "id": "day-group",
+    "name": "Day group",
+    "for": "Online in the daytime.",
+    "about": "Same 10 days as the other group, with recordings of every live session and the group chat. Demo day and the certificate ceremony are shared, online.",
+    "starts": "",
+    "schedule": "",
+    "seats": null,
+    "eventbrite": ""
+   }
+  ],
+  "challenge": {
+   "title": "The 10-day build",
+   "lead": "10 days in two 5-day levels, from a first live page to your own tool, launched on your own domain. Start with Level 1. Most days follow a free GitHub Skills exercise in your own GitHub account, where GitHub Actions checks each step, and the founder walks through it live.",
+   "wave": "Wave 1",
+   "freeDays": 1,
+   "eventbrite": "",
+   "nav": false,
+   "copy": {
+    "continueLead": "Days 2 to 10 come with the live calls: the founder walks through each day alongside you, and you bring what you built.",
+    "blockTitle": "The 10 days",
+    "blockLead": "10 days in two 5-day levels. Named for what you have at the end of each day.",
+    "open": "Open the GitHub Skills exercise (free)",
+    "follows": "Follows",
+    "free": "Try it",
+    "freeLine": "Try it: Day 1 is open now. Start with Level 1."
+   },
+   "days": [
+    {
+     "n": 1,
+     "title": "Your first live page",
+     "build": "A web page you described to the AI, live at an address you can share within about 30 minutes, and you have read every line of it.",
+     "minutes": 30,
+     "about": "Follows GitHub Skills, GitHub Pages: you copy the exercise into your own GitHub account and GitHub Actions checks each step. GitHub says the exercise takes less than one hour. You need a free GitHub account and a browser.",
+     "steps": [
+      "Sign in to your free GitHub account and open the GitHub Skills GitHub Pages exercise.",
+      "Copy the exercise to your account, as its page shows, and wait for the first step to appear.",
+      "Describe the page you want to an AI assistant in plain words, and ask it for the HTML.",
+      "Put the page in your repository, then read every line and ask the AI about any line you cannot explain.",
+      "Turn on GitHub Pages as the exercise shows, and open your live address."
+     ],
+     "link": "https://github.com/skills/github-pages",
+     "linkLabel": "Open GitHub Skills: GitHub Pages (free)",
+     "follows": "GitHub Skills, GitHub Pages",
+     "level": "level-1"
+    },
+    {
+     "n": 2,
+     "title": "Make it yours",
+     "build": "Your page changed by hand, through a branch, a commit and a pull request, and you know what each part does.",
+     "minutes": 45,
+     "link": "https://github.com/skills/introduction-to-github",
+     "follows": "GitHub Skills, Introduction to GitHub",
+     "level": "level-1"
+    },
+    {
+     "n": 3,
+     "title": "A form that saves data",
+     "build": "A form on your page that saves what people send, built with AI as your pair programmer.",
+     "minutes": 45,
+     "link": "https://github.com/skills/getting-started-with-github-copilot",
+     "follows": "GitHub Skills, Getting started with GitHub Copilot",
+     "level": "level-1"
+    },
+    {
+     "n": 4,
+     "title": "When the AI gets it wrong",
+     "build": "A bug the AI made, found and fixed live, and a test so it stays fixed.",
+     "minutes": 45,
+     "link": "https://github.com/skills/test-and-debug-with-github-copilot",
+     "follows": "GitHub Skills, Test and debug with GitHub Copilot",
+     "level": "level-1"
+    },
+    {
+     "n": 5,
+     "title": "Launch Level 1: it's live on GitHub Pages",
+     "build": "Your tool, with its form and its test, live on GitHub Pages at an address you can share, and a short note on what you built.",
+     "minutes": 45,
+     "link": "https://docs.github.com/en/pages/quickstart",
+     "follows": "GitHub Docs, Quickstart for GitHub Pages",
+     "level": "level-1"
+    },
+    {
+     "n": 6,
+     "title": "Build it for someone else",
+     "build": "A small tool for a friend, a client or a local group, built from what they asked for.",
+     "minutes": 45,
+     "link": "https://github.com/skills/expand-your-team-with-copilot",
+     "follows": "GitHub Skills, Expand your team with Copilot",
+     "level": "level-2"
+    },
+    {
+     "n": 7,
+     "title": "Connect it to the world",
+     "build": "Your tool talking to something outside it: an API, an email or a payment link.",
+     "minutes": 45,
+     "link": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core",
+     "follows": "No GitHub Skills course for this day: MDN, Core modules",
+     "level": "level-2"
+    },
+    {
+     "n": 8,
+     "title": "Keep it safe",
+     "build": "No secrets in your code, a clear note on what data you keep, and a cost limit on anything that can charge you.",
+     "minutes": 45,
+     "link": "https://github.com/skills/secure-code-game",
+     "follows": "GitHub Skills, Secure Code Game",
+     "level": "level-2"
+    },
+    {
+     "n": 9,
+     "title": "Pause, group code review and polish",
+     "build": "Your code read by the group and theirs read by you, with one thing you each fix, then your tool readable on a phone, usable with a keyboard, with alt text and headings in order. A lighter day on purpose.",
+     "minutes": 45,
+     "link": "https://www.theodinproject.com/paths/foundations/courses/foundations",
+     "follows": "No GitHub Skills course for this day: The Odin Project, Foundations, Asking For Help, and MDN, Core modules, Accessibility",
+     "level": "level-2"
+    },
+    {
+     "n": 10,
+     "title": "Launch on your own domain, demo day and certificates",
+     "build": "Your tool live on your own domain, a show and tell and a 2-minute pitch, then the certificate and award ceremony.",
+     "minutes": 60,
+     "link": "https://docs.github.com/en/pages/quickstart",
+     "follows": "GitHub Docs, Quickstart for GitHub Pages, then free hosting on Ontold",
+     "level": "level-2"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Whose courses are these?",
+     "a": "Most days follow a free GitHub Skills exercise, made and run by GitHub. You do it in your own copy of the exercise in your own GitHub account. We link to it and never copy it, and GitHub does not endorse us. Where no GitHub Skills exercise fits, the day says so and links a free course from MDN or The Odin Project."
+    },
+    {
+     "q": "Can I take one level on its own?",
+     "a": "Yes. Level 1, Build it, is for beginners and ends with your tool live on GitHub Pages. Level 2, Make it real, takes a tool further and ends on your own domain at demo day. Each level has its own Register interest and its own certificate."
+    },
+    {
+     "q": "Do I need to pay for anything?",
+     "a": "You need a free GitHub account. AI subscriptions such as Claude, ChatGPT or Cursor are optional, and you never need to set up API billing. Try it: Day 1 is open now. The 10 days come in two 5-day levels that open with the first wave, and you can register interest in each level now."
+    },
+    {
+     "q": "Do I need any experience?",
+     "a": "No. Day 1 starts with describing a page in plain words."
+    },
+    {
+     "q": "What do I get at the end?",
+     "a": "Finish Level 1 and you get your Level 1 certificate; finish Level 2 and you get your Level 2 certificate. Each is its own verifiable certificate, issued by the founder. Everyone who finishes Level 2 also gets their launched tool hosted free on Ontold, their own domain set up for them, and a listing on the womenintech.me outputs leaderboard. The exact terms are set out on this page and are to be confirmed."
+    },
+    {
+     "q": "When does it run?",
+     "a": "Wave 1 dates are to be announced. Day 1 is open now."
+    }
+   ],
+   "levels": [
+    {
+     "id": "level-1",
+     "title": "Build it",
+     "lead": "Beginner. Days 1 to 5: a first live page, made yours, a form that saves data, a bug found and fixed, then your tool live on GitHub Pages. Take it on its own, or start here.",
+     "certificate": "Finish Level 1, get your Level 1 certificate",
+     "seal": "/img/seal-level-1.svg"
+    },
+    {
+     "id": "level-2",
+     "title": "Make it real",
+     "lead": "Next level. Days 6 to 10: build for someone else, connect it to the world, keep it safe, review and polish, then launch on your own domain at demo day. Take it after Level 1, or on its own if you have shipped a page before.",
+     "certificate": "Finish Level 2, get your Level 2 certificate",
+     "seal": "/img/seal-level-2.svg"
+    }
+   ]
+  }
+ },
+ "speakers": false,
+ "ontold": {
+  "mcp": true
+ },
+ "reward": {
+  "title": "Finish, and keep what you built, free",
+  "lead": "Everyone who finishes the 10 days gets a free product to keep.",
+  "conditions": "Finish the 10 days and launch your tool on day 10.",
+  "hostingFor": "",
+  "domainRegistrationIncluded": null,
+  "leaderboardUrl": "https://womenintech.me/leaderboard",
+  "terms": "",
+  "leaderboardLabel": "A listing on the womenintech.me outputs leaderboard",
+  "leaderboardText": "of things women made."
+ },
+ "levelUps": [
+  {
+   "day": 3,
+   "title": "Customize your GitHub Copilot experience",
+   "url": "https://github.com/skills/customize-your-github-copilot-experience",
+   "what": "Give your AI pair programmer custom instructions and prompts for your project."
+  },
+  {
+   "day": 5,
+   "title": "Build applications with Copilot agent mode",
+   "url": "https://github.com/skills/build-applications-w-copilot-agent-mode",
+   "what": "Let the AI take a bigger step on its own, then read what it did."
+  },
+  {
+   "day": 7,
+   "title": "Integrate MCP with Copilot",
+   "url": "https://github.com/skills/integrate-mcp-with-copilot",
+   "what": "Connect your AI pair programmer to other tools with MCP servers."
+  }
+ ],
+ "finale": {
+  "online": true,
+  "inPerson": "",
+  "album": "",
+  "parts": [
+   {
+    "title": "Launch",
+    "text": "Your tool goes live on GitHub Pages, then on your own domain."
+   },
+   {
+    "title": "Show and tell",
+    "text": "Show the group what you built and what you fixed along the way."
+   },
+   {
+    "title": "A 2-minute pitch",
+    "text": "Who it is for, what it does, and what you would build next."
+   },
+   {
+    "title": "Certificates and awards",
+    "text": "Every finisher gets a certificate of completion. Awards go to projects, never to people."
+   }
+  ],
+  "meetupCity": "London"
+ },
+ "awards": {
+  "lead": "Awards are for projects, never a ranking of people. Every finisher gets a certificate either way.",
+  "categories": [
+   {
+    "id": "most-useful",
+    "name": "Most useful",
+    "about": "The tool that does the most for the people who use it.",
+    "prize": ""
+   },
+   {
+    "id": "for-someone-else",
+    "name": "Best built for someone else",
+    "about": "The tool that best answers what someone else asked for.",
+    "prize": ""
+   },
+   {
+    "id": "first-launch",
+    "name": "Best first launch",
+    "about": "The best first thing someone ever put live.",
+    "prize": ""
+   }
+  ],
+  "winners": {
+   "wave-1": []
+  }
+ },
+ "resources": [
+  {
+   "level": "New to coding",
+   "items": [
+    {
+     "name": "MDN, Learn web development",
+     "by": "Mozilla",
+     "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+    },
+    {
+     "name": "The Odin Project, Foundations",
+     "by": "The Odin Project",
+     "url": "https://www.theodinproject.com/paths/foundations/courses/foundations"
+    }
+   ]
+  },
+  {
+   "level": "New to AI agents",
+   "items": [
+    {
+     "name": "Getting started with GitHub Copilot",
+     "by": "GitHub Skills",
+     "url": "https://github.com/skills/getting-started-with-github-copilot"
+    },
+    {
+     "name": "Expand your team with Copilot",
+     "by": "GitHub Skills",
+     "url": "https://github.com/skills/expand-your-team-with-copilot"
+    }
+   ]
+  },
+  {
+   "level": "Hands-on",
+   "items": [
+    {
+     "name": "GitHub Skills catalogue",
+     "by": "GitHub",
+     "url": "https://learn.github.com/skills"
+    },
+    {
+     "name": "GitHub Pages",
+     "by": "GitHub Skills",
+     "url": "https://github.com/skills/github-pages"
+    }
+   ]
+  },
+  {
+   "level": "Level up",
+   "items": [
+    {
+     "name": "mattpocock/skills",
+     "by": "mattpocock on GitHub",
+     "url": "https://github.com/mattpocock/skills",
+     "note": "Optional extras for AI coding tools. See the repo itself for what it contains and its licence."
+    }
+   ]
+  }
+ ],
+ "certificate": {
+  "issuedBy": "Issued by Women Can Code",
+  "notAccredited": "This is a verifiable certificate from Women Can Code, a digital credential in the Open Badges 3.0 format. It is not an accredited or regulated qualification.",
+  "founder": {
+   "name": "",
+   "title": "Founder, Women Can Code",
+   "signatureImage": ""
+  },
+  "linkedinOrganizationId": "",
+  "levels": {
+   "level-1": {
+    "achievement": "Women Can Code: Build it, Level 1",
+    "achievementAbout": "Awarded to a builder who finished Level 1 of the Women Can Code 10-day build: she shipped a working page with a form that saves data to GitHub Pages.",
+    "criteria": "Finish days 1 to 5 of Level 1, Build it: a page live on GitHub Pages with a form that saves data and a test for a bug the AI made, with its code in a public repository. The founder reviews the live project and the code before issuing.",
+    "proves": "What this proves: you finished Level 1 of the 10-day build and shipped a working page to GitHub Pages."
+   },
+   "level-2": {
+    "achievement": "Women Can Code: Make it real, Level 2",
+    "achievementAbout": "Awarded to a builder who finished Level 2 of the Women Can Code 10-day build: she shipped a working tool on her own domain and demoed it on demo day.",
+    "criteria": "Finish days 6 to 10 of Level 2, Make it real: a tool built for someone else, connected to something outside it, kept safe, reviewed by the group, live on your own domain with its code in a public repository, and presented in a 2-minute pitch on demo day. The founder reviews the live project, the code and the pitch before issuing.",
+    "proves": "What this proves: you finished Level 2 of the 10-day build, shipped a working tool on your own domain and demoed it."
+   }
+  }
+ },
+ "ideasLead": "Start from one of these. Each is something women build for their own life, job or business, and each fits the 10 days."
+}

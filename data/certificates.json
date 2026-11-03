@@ -1,0 +1,14 @@
+[
+ {
+  "_about": "The first credential: the founder as recipient. Fill in the four fields below (her name as it should appear, her project's live and repo URLs, and the date), then issue it from /admin/certificates, where it appears prefilled as 'Your own credential'. It is never shown or signed while any of them is empty.",
+  "id": "founder-first",
+  "draft": true,
+  "role": "founder",
+  "name": "",
+  "project": "",
+  "live": "",
+  "repo": "",
+  "date": "",
+  "wave": "wave-1"
+ }
+]

@@ -1,0 +1,1 @@
+maplibre-gl 4.7.1 (BSD-3-Clause, https://github.com/maplibre/maplibre-gl-js) and topojson-client 3.1.0 (ISC, https://github.com/topojson/topojson-client), copied unchanged from npm. Country shapes in public/geo: Natural Earth via world-atlas 2, public domain.

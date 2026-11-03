@@ -1,0 +1,85 @@
+[
+ {
+  "id": "international-womens-day",
+  "name": "International Women's Day",
+  "online": true,
+  "kind": "community",
+  "rule": {
+   "type": "fixed",
+   "month": 3,
+   "day": 8
+  },
+  "blurb": "A day for women's achievement and equality, marked by women in tech communities worldwide with talks, hack days and meetups.",
+  "url": "https://www.un.org/en/observances/womens-day"
+ },
+ {
+  "id": "day-of-women-and-girls-in-science",
+  "name": "International Day of Women and Girls in Science",
+  "online": true,
+  "kind": "community",
+  "rule": {
+   "type": "fixed",
+   "month": 2,
+   "day": 11
+  },
+  "blurb": "A UN day for women and girls in science.",
+  "url": "https://www.un.org/en/observances/women-and-girls-in-science-day"
+ },
+ {
+  "id": "girls-in-ict-day",
+  "name": "International Girls in ICT Day",
+  "online": true,
+  "kind": "community",
+  "rule": {
+   "type": "weekday",
+   "month": 4,
+   "weekday": 4,
+   "nth": 4,
+   "offset": 0,
+   "days": 1
+  },
+  "blurb": "An ITU-backed day, on the fourth Thursday of April, that encourages girls into technology careers.",
+  "when": "Fourth Thursday of April",
+  "url": "https://www.itu.int/"
+ },
+ {
+  "id": "inwed",
+  "name": "International Women in Engineering Day",
+  "online": true,
+  "kind": "community",
+  "rule": {
+   "type": "fixed",
+   "month": 6,
+   "day": 23
+  },
+  "blurb": "Launched by the Women's Engineering Society in 2014 to celebrate women engineers and inspire girls into engineering.",
+  "url": "https://www.inwed.org.uk/"
+ },
+ {
+  "id": "ada-lovelace-day",
+  "name": "Ada Lovelace Day",
+  "online": true,
+  "kind": "community",
+  "rule": {
+   "type": "weekday",
+   "month": 10,
+   "weekday": 2,
+   "nth": 2
+  },
+  "blurb": "An international day celebrating the achievements of women in science, technology, engineering and maths, held on the second Tuesday of October.",
+  "url": "https://findingada.com/"
+ },
+ {
+  "id": "international-day-of-the-girl",
+  "name": "International Day of the Girl",
+  "online": true,
+  "kind": "community",
+  "rule": {
+   "type": "fixed",
+   "month": 10,
+   "day": 11
+  },
+  "blurb": "A UN day for girls' rights and opportunities, often marked with coding and STEM events.",
+  "url": "https://www.un.org/en/observances/girl-child-day"
+ }
+]

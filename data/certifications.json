@@ -1,0 +1,411 @@
+{
+ "_about": "Industry certifications and the founder's Anthropic Academy plan. Official URLs and prices were checked through the fetch lane (internal/docs-fetch, 2026-11-03): Google $99 and AWS 100 USD were on their own pages; GitHub and Microsoft price by country, so they say check the official page. price null means unverified. The site never shows these fees: price is kept for the record but unused, and only 0 (free) changes what a card says. show is the default; the founder overrides it at /admin/certifications. Nothing is marked done here: progress lives only in site settings, set by the founder.",
+ "checked": "2026-11-03",
+ "items": [
+  {
+   "kind": "exam",
+   "show": true,
+   "id": "github-foundations",
+   "issuer": "GitHub",
+   "name": "GitHub Foundations",
+   "code": "GH-900",
+   "price": null,
+   "url": "https://learn.microsoft.com/en-us/credentials/certifications/github-foundations/",
+   "proves": "You understand the GitHub basics: repositories, commits, branches, pull requests and collaborating on code.",
+   "prep": [
+    {
+     "name": "GitHub Skills (free exercises)",
+     "url": "https://github.com/skills"
+    },
+    {
+     "name": "Introduction to GitHub (GitHub Skills)",
+     "url": "https://github.com/skills/introduction-to-github"
+    }
+   ]
+  },
+  {
+   "kind": "exam",
+   "show": true,
+   "id": "github-copilot",
+   "issuer": "GitHub",
+   "name": "GitHub Copilot",
+   "code": "GH-300",
+   "price": null,
+   "url": "https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/",
+   "proves": "You can use GitHub Copilot responsibly to write, explain, test and fix code.",
+   "prep": [
+    {
+     "name": "Getting started with GitHub Copilot (GitHub Skills)",
+     "url": "https://github.com/skills/getting-started-with-github-copilot"
+    },
+    {
+     "name": "Test and debug with GitHub Copilot (GitHub Skills)",
+     "url": "https://github.com/skills/test-and-debug-with-github-copilot"
+    }
+   ]
+  },
+  {
+   "kind": "exam",
+   "show": true,
+   "id": "google-genai-leader",
+   "issuer": "Google Cloud",
+   "name": "Generative AI Leader",
+   "code": "",
+   "price": 99,
+   "url": "https://cloud.google.com/learn/certification/generative-ai-leader",
+   "proves": "You understand what generative AI can do for an organisation and how to adopt it well. It is a business-level certification, not a coding one.",
+   "prep": [
+    {
+     "name": "The official exam page, with its free learning path",
+     "url": "https://cloud.google.com/learn/certification/generative-ai-leader"
+    }
+   ]
+  },
+  {
+   "kind": "exam",
+   "show": true,
+   "id": "aws-ai-practitioner",
+   "issuer": "Amazon Web Services",
+   "name": "AWS Certified AI Practitioner",
+   "code": "AIF-C01",
+   "price": 100,
+   "url": "https://aws.amazon.com/certification/certified-ai-practitioner/",
+   "proves": "You know the core ideas of AI, machine learning and generative AI, and the AWS services that use them.",
+   "prep": [
+    {
+     "name": "The official exam page, with its exam guide",
+     "url": "https://aws.amazon.com/certification/certified-ai-practitioner/"
+    }
+   ]
+  },
+  {
+   "kind": "exam",
+   "show": true,
+   "id": "microsoft-ai-901",
+   "issuer": "Microsoft",
+   "name": "Microsoft Azure AI Fundamentals",
+   "code": "AI-901",
+   "price": null,
+   "url": "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-901/",
+   "proves": "You know the fundamentals of AI workloads and the Azure AI services. AI-901 replaces AI-900, which is retired.",
+   "prep": [
+    {
+     "name": "AI-901 study guide and free Microsoft Learn paths",
+     "url": "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-901/"
+    }
+   ]
+  },
+  {
+   "kind": "exam",
+   "show": true,
+   "id": "anthropic-cca-f",
+   "issuer": "Anthropic",
+   "name": "Claude Certified Architect, Foundations",
+   "code": "CCA-F",
+   "price": null,
+   "url": "https://www.anthropic.com/partners",
+   "proves": "You can design solutions with Claude. Open only to organisations in the Claude Partner Network, so most individuals cannot sit it yet.",
+   "partnersOnly": true,
+   "prep": [
+    {
+     "name": "Anthropic Academy free courses",
+     "url": "https://anthropic.skilljar.com/"
+    }
+   ]
+  },
+  {
+   "kind": "academy",
+   "id": "anthropic-academy",
+   "issuer": "Anthropic",
+   "name": "Anthropic Academy free courses",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "Free courses on Claude, AI fluency, Claude Code and the Claude API. Each gives a free certificate of completion. A completion certificate, not an exam.",
+   "prep": [
+    {
+     "name": "All courses",
+     "url": "https://anthropic.skilljar.com/"
+    }
+   ]
+  },
+  {
+   "kind": "course",
+   "id": "aa-claude-101",
+   "issuer": "Anthropic Academy",
+   "name": "Claude 101",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-ai-capabilities-and-limitations",
+   "issuer": "Anthropic Academy",
+   "name": "AI Capabilities and Limitations",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-ai-fluency-framework-foundations",
+   "issuer": "Anthropic Academy",
+   "name": "AI Fluency: Framework & Foundations",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-ai-fluency-for-builders",
+   "issuer": "Anthropic Academy",
+   "name": "AI Fluency for Builders",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-ai-fluency-for-small-businesses",
+   "issuer": "Anthropic Academy",
+   "name": "AI Fluency for Small Businesses",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-ai-fluency-for-creative-work",
+   "issuer": "Anthropic Academy",
+   "name": "AI Fluency for Creative Work",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-ai-fluency-for-nonprofits",
+   "issuer": "Anthropic Academy",
+   "name": "AI Fluency for nonprofits",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-ai-fluency-for-students",
+   "issuer": "Anthropic Academy",
+   "name": "AI Fluency for students",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-ai-fluency-for-educators",
+   "issuer": "Anthropic Academy",
+   "name": "AI Fluency for educators",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-teaching-ai-fluency",
+   "issuer": "Anthropic Academy",
+   "name": "Teaching AI Fluency",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-ai-fluency-for-pk-12-educators",
+   "issuer": "Anthropic Academy",
+   "name": "AI Fluency for pK-12 Educators",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": [],
+   "note": "A path of 2 courses."
+  },
+  {
+   "kind": "course",
+   "id": "aa-claude-code-101",
+   "issuer": "Anthropic Academy",
+   "name": "Claude Code 101",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-introduction-to-claude-cowork",
+   "issuer": "Anthropic Academy",
+   "name": "Introduction to Claude Cowork",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-claude-code-in-action",
+   "issuer": "Anthropic Academy",
+   "name": "Claude Code in Action",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-introduction-to-agent-skills",
+   "issuer": "Anthropic Academy",
+   "name": "Introduction to agent skills",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-introduction-to-subagents",
+   "issuer": "Anthropic Academy",
+   "name": "Introduction to subagents",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-claude-platform-101",
+   "issuer": "Anthropic Academy",
+   "name": "Claude Platform 101",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-building-with-the-claude-api",
+   "issuer": "Anthropic Academy",
+   "name": "Building with the Claude API",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-introduction-to-model-context-protocol",
+   "issuer": "Anthropic Academy",
+   "name": "Introduction to Model Context Protocol",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-model-context-protocol-advanced-topics",
+   "issuer": "Anthropic Academy",
+   "name": "Model Context Protocol: Advanced Topics",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-claude-with-amazon-bedrock",
+   "issuer": "Anthropic Academy",
+   "name": "Claude with Amazon Bedrock",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-claude-on-google-cloud",
+   "issuer": "Anthropic Academy",
+   "name": "Claude on Google Cloud",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  },
+  {
+   "kind": "course",
+   "id": "aa-deploying-claude-enterprise-with-confidence",
+   "issuer": "Anthropic Academy",
+   "name": "Deploying Claude Enterprise with Confidence",
+   "code": "",
+   "price": 0,
+   "url": "https://anthropic.skilljar.com/",
+   "show": true,
+   "proves": "A free Anthropic Academy course with a free certificate of completion.",
+   "prep": []
+  }
+ ]
+}

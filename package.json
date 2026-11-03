@@ -1,0 +1,23 @@
+{
+  "name": "womencancode",
+  "version": "0.1.0",
+  "private": true,
+  "description": "BlackABC: positive news and creative work from Black people in every country, with open, moderated submissions.",
+  "type": "module",
+  "homepage": "https://blackabc.com",
+  "scripts": {
+    "dev": "wrangler dev",
+    "test": "node --test \"test/**/*.test.mjs\"",
+    "build": "node scripts/build.mjs",
+    "configure": "node configure.mjs",
+    "migrate:local": "wrangler d1 migrations apply blackabc --local",
+    "deploy": "wrangler deploy",
+    "map": "npm install --no-save world-atlas@2 topojson-client@3 d3-geo@3 i18n-iso-countries@7 && node scripts/world-map.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

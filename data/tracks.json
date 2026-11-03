@@ -1,0 +1,547 @@
+[
+ {
+  "id": "web-foundations",
+  "title": "Build for the web from zero",
+  "level": "Beginner",
+  "language": "HTML, CSS, JavaScript",
+  "file": "index.html",
+  "summary": "The Odin Project's Foundations course: set up your tools, learn Git, then HTML, CSS, Flexbox and JavaScript through real projects.",
+  "course": {
+   "name": "Foundations",
+   "provider": "The Odin Project",
+   "url": "https://www.theodinproject.com/paths/foundations/courses/foundations",
+   "free": true,
+   "freeEvidence": {
+    "quote": "The Odin Project provides a free open source coding curriculum that can be taken entirely online.",
+    "where": "About The Odin Project",
+    "url": "https://www.theodinproject.com/about"
+   },
+   "note": "The Odin Project is funded by its community and maintained by volunteers. Its projects include a recipe site, a landing page, Rock Paper Scissors, Etch-a-Sketch and a calculator."
+  },
+  "sources": [
+   {
+    "title": "The Odin Project, Foundations",
+    "url": "https://www.theodinproject.com/paths/foundations/courses/foundations"
+   },
+   {
+    "title": "About The Odin Project",
+    "url": "https://www.theodinproject.com/about"
+   }
+  ],
+  "checked": "2026-11-03",
+  "unitsLabel": "Sections",
+  "units": [
+   "Introduction",
+   "Prerequisites",
+   "Git Basics",
+   "HTML Foundations",
+   "CSS Foundations",
+   "Flexbox",
+   "JavaScript Basics",
+   "Conclusion"
+  ],
+  "pace": {
+   "weeks": 12,
+   "hours": "5 to 6 hours",
+   "plan": [
+    {
+     "weeks": "Weeks 1 to 2",
+     "units": "Introduction, Prerequisites, Git Basics"
+    },
+    {
+     "weeks": "Weeks 3 to 5",
+     "units": "HTML Foundations and the Recipes project"
+    },
+    {
+     "weeks": "Weeks 6 to 8",
+     "units": "CSS Foundations, Flexbox and the Landing Page project"
+    },
+    {
+     "weeks": "Weeks 9 to 12",
+     "units": "JavaScript Basics, through to the Calculator project"
+    }
+   ]
+  },
+  "build": [
+   "A recipe site with several linked pages",
+   "A landing page laid out with Flexbox",
+   "Rock Paper Scissors, Etch-a-Sketch and a calculator in JavaScript"
+  ],
+  "walkthroughs": [
+   {
+    "title": "Setting up and your first commit",
+    "covers": "Prerequisites and Git Basics"
+   },
+   {
+    "title": "The recipe site, together",
+    "covers": "HTML Foundations, Project: Recipes"
+   },
+   {
+    "title": "Boxes and Flexbox",
+    "covers": "CSS Foundations, Flexbox, Project: Landing Page"
+   },
+   {
+    "title": "Your first JavaScript",
+    "covers": "JavaScript Basics, Project: Rock Paper Scissors"
+   }
+  ]
+ },
+ {
+  "id": "full-stack",
+  "title": "Certifications, one at a time",
+  "level": "Beginner to intermediate",
+  "language": "HTML, CSS, JavaScript, Python, SQL",
+  "file": "script.js",
+  "summary": "freeCodeCamp's Full-Stack Developer Curriculum: interactive lessons, workshops, labs and projects, with a free certification at the end of each part.",
+  "course": {
+   "name": "Full-Stack Developer Curriculum",
+   "provider": "freeCodeCamp",
+   "url": "https://www.freecodecamp.org/learn/full-stack-developer-v9/",
+   "free": true,
+   "freeEvidence": {
+    "quote": "Our full-stack web development and machine learning curriculum is completely free and self-paced.",
+    "where": "the freeCodeCamp README",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+   },
+   "note": "freeCodeCamp is run by a donor-supported charity. Each certification has 5 required projects and an exam."
+  },
+  "sources": [
+   {
+    "title": "freeCodeCamp README",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+   }
+  ],
+  "checked": "2026-11-03",
+  "unitsLabel": "Certifications",
+  "units": [
+   "Responsive Web Design",
+   "JavaScript",
+   "Front-End Development Libraries",
+   "Python",
+   "Relational Databases",
+   "Back-End Development and APIs"
+  ],
+  "pace": {
+   "weeks": 16,
+   "hours": "5 hours",
+   "plan": [
+    {
+     "weeks": "Weeks 1 to 8",
+     "units": "Responsive Web Design"
+    },
+    {
+     "weeks": "Weeks 9 to 16",
+     "units": "JavaScript"
+    }
+   ]
+  },
+  "build": [
+   "The 5 required projects of each certification",
+   "A free, verified certification you can link from your CV"
+  ],
+  "walkthroughs": [
+   {
+    "title": "Responsive Web Design, side by side",
+    "covers": "The Responsive Web Design certification"
+   },
+   {
+    "title": "JavaScript, side by side",
+    "covers": "The JavaScript certification"
+   }
+  ]
+ },
+ {
+  "id": "mdn-web",
+  "title": "The web, explained properly",
+  "level": "Beginner",
+  "language": "HTML, CSS, JavaScript",
+  "file": "style.css",
+  "summary": "MDN's Learn web development: the Getting started modules for complete beginners, then the Core modules every web developer should know.",
+  "course": {
+   "name": "Learn web development",
+   "provider": "MDN (Mozilla)",
+   "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
+   "free": true,
+   "freeEvidence": {
+    "quote": "There is no prerequisite knowledge for starting this course.",
+    "where": "Getting started modules",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started"
+   },
+   "note": "MDN's learning pages are open to read without an account or payment. It is a reference as much as a course, so it pairs well with the other tracks."
+  },
+  "sources": [
+   {
+    "title": "MDN, Learn web development",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+   },
+   {
+    "title": "MDN, Getting started modules",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started"
+   },
+   {
+    "title": "MDN, Core learning modules",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core"
+   }
+  ],
+  "checked": "2026-11-03",
+  "unitsLabel": "Modules",
+  "units": [
+   "Environment setup",
+   "Your first website",
+   "Web standards",
+   "Soft skills",
+   "Structuring content with HTML",
+   "CSS styling basics",
+   "CSS text styling",
+   "CSS layout",
+   "Dynamic scripting with JavaScript",
+   "JavaScript frameworks and libraries",
+   "Accessibility",
+   "Design for developers",
+   "Version control"
+  ],
+  "pace": {
+   "weeks": 12,
+   "hours": "4 to 5 hours",
+   "plan": [
+    {
+     "weeks": "Weeks 1 to 3",
+     "units": "The Getting started modules, including Your first website"
+    },
+    {
+     "weeks": "Weeks 4 to 8",
+     "units": "HTML, CSS styling, text and layout"
+    },
+    {
+     "weeks": "Weeks 9 to 12",
+     "units": "JavaScript, Accessibility and Version control"
+    }
+   ]
+  },
+  "build": [
+   "A simple website, published online",
+   "Accessible, well-structured pages"
+  ],
+  "walkthroughs": [
+   {
+    "title": "Your first website, start to finish",
+    "covers": "Getting started: Your first website, including publishing"
+   },
+   {
+    "title": "Layout and accessibility",
+    "covers": "CSS layout and Accessibility"
+   }
+  ]
+ },
+ {
+  "id": "cs50x",
+  "title": "How computers really think",
+  "level": "Beginner, stretching",
+  "language": "C, Python, SQL, JavaScript",
+  "file": "hello.c",
+  "summary": "Harvard's CS50x, the introduction to computer science, for people with or without prior programming experience.",
+  "course": {
+   "name": "CS50's Introduction to Computer Science (CS50x)",
+   "provider": "Harvard University",
+   "url": "https://cs50.harvard.edu/x/",
+   "free": true,
+   "freeEvidence": {
+    "quote": "Even if you are not a student at Harvard, you are welcome to “take” this course for free via this OpenCourseWare",
+    "where": "How to Take this Course",
+    "url": "https://cs50.harvard.edu/x/"
+   },
+   "note": "Certificates and credit are optional extras that Harvard and edX offer separately; the course itself is free."
+  },
+  "sources": [
+   {
+    "title": "CS50x",
+    "url": "https://cs50.harvard.edu/x/"
+   },
+   {
+    "title": "CS50x weeks",
+    "url": "https://cs50.harvard.edu/x/weeks/"
+   }
+  ],
+  "checked": "2026-11-03",
+  "unitsLabel": "Weeks",
+  "units": [
+   "Week 0",
+   "Week 1",
+   "Week 2",
+   "Week 3",
+   "Week 4",
+   "Week 5",
+   "Week 6",
+   "Week 7",
+   "Artificial Intelligence",
+   "Week 8",
+   "Week 9",
+   "Week 10"
+  ],
+  "pace": {
+   "weeks": 24,
+   "hours": "6 to 10 hours",
+   "plan": [
+    {
+     "weeks": "Weeks 1 to 8",
+     "units": "Weeks 0 to 3"
+    },
+    {
+     "weeks": "Weeks 9 to 16",
+     "units": "Weeks 4 to 7 and Artificial Intelligence"
+    },
+    {
+     "weeks": "Weeks 17 to 24",
+     "units": "Weeks 8 to 10 and the final project"
+    }
+   ]
+  },
+  "build": [
+   "The course's problem sets",
+   "A final project of your own"
+  ],
+  "walkthroughs": [
+   {
+    "title": "Week 0, together",
+    "covers": "Week 0 lecture and problem set"
+   },
+   {
+    "title": "Your first C program",
+    "covers": "Week 1"
+   }
+  ]
+ },
+ {
+  "id": "cs50p",
+  "title": "Python, from the first line",
+  "level": "Beginner",
+  "language": "Python",
+  "file": "hello.py",
+  "summary": "Harvard's CS50P: programming with Python, how to read and write code, test it and debug it.",
+  "course": {
+   "name": "CS50's Introduction to Programming with Python (CS50P)",
+   "provider": "Harvard University",
+   "url": "https://cs50.harvard.edu/python/",
+   "free": true,
+   "freeEvidence": {
+    "quote": "Even if you are not a student at Harvard, you are welcome to “take” this course for free via this OpenCourseWare",
+    "where": "How to Take this Course",
+    "url": "https://cs50.harvard.edu/python/"
+   },
+   "note": "You can take CS50P before, during or after CS50x."
+  },
+  "sources": [
+   {
+    "title": "CS50P",
+    "url": "https://cs50.harvard.edu/python/"
+   },
+   {
+    "title": "CS50P weeks",
+    "url": "https://cs50.harvard.edu/python/weeks/"
+   }
+  ],
+  "checked": "2026-11-03",
+  "unitsLabel": "Weeks",
+  "units": [
+   "Functions, Variables",
+   "Conditionals",
+   "Loops",
+   "Exceptions",
+   "Libraries",
+   "Unit Tests",
+   "File I/O",
+   "Regular Expressions",
+   "Object-Oriented Programming",
+   "Et Cetera"
+  ],
+  "pace": {
+   "weeks": 20,
+   "hours": "5 to 6 hours",
+   "plan": [
+    {
+     "weeks": "Weeks 1 to 8",
+     "units": "Functions, Variables to Exceptions"
+    },
+    {
+     "weeks": "Weeks 9 to 14",
+     "units": "Libraries to File I/O"
+    },
+    {
+     "weeks": "Weeks 15 to 20",
+     "units": "Regular Expressions to Et Cetera, and the final project"
+    }
+   ]
+  },
+  "build": [
+   "The course's problem sets",
+   "A final project in Python"
+  ],
+  "walkthroughs": [
+   {
+    "title": "Functions and variables, together",
+    "covers": "Functions, Variables"
+   },
+   {
+    "title": "Loops without fear",
+    "covers": "Loops"
+   }
+  ]
+ },
+ {
+  "id": "py4e",
+  "title": "Python for everybody",
+  "level": "Beginner",
+  "language": "Python",
+  "file": "first.py",
+  "summary": "Dr Chuck's Python for Everybody: lessons for people with no programming background, through to databases and data visualisation.",
+  "course": {
+   "name": "Python for Everybody (PY4E)",
+   "provider": "Charles Severance, University of Michigan",
+   "url": "https://www.py4e.com/lessons",
+   "free": true,
+   "freeEvidence": {
+    "quote": "This web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python.",
+    "where": "PY4E home page",
+    "url": "https://www.py4e.com/"
+   },
+   "note": "The materials are licensed Creative Commons Attribution 4.0. The same course also runs on Coursera, edX and freeCodeCamp."
+  },
+  "sources": [
+   {
+    "title": "PY4E",
+    "url": "https://www.py4e.com/"
+   },
+   {
+    "title": "PY4E lessons",
+    "url": "https://www.py4e.com/lessons"
+   }
+  ],
+  "checked": "2026-11-03",
+  "unitsLabel": "Lessons",
+  "units": [
+   "Installing Python",
+   "Why Program?",
+   "Variables, expressions and statements",
+   "Conditional Execution",
+   "Functions",
+   "Loops and Iterations",
+   "Strings",
+   "Files",
+   "Lists",
+   "Dictionaries",
+   "Tuples",
+   "Regular Expressions",
+   "Network Programming",
+   "Using Web Services",
+   "Object-Oriented Programming",
+   "Databases",
+   "Data Visualization"
+  ],
+  "pace": {
+   "weeks": 17,
+   "hours": "3 to 4 hours",
+   "plan": [
+    {
+     "weeks": "Weeks 1 to 6",
+     "units": "Installing Python to Loops and Iterations"
+    },
+    {
+     "weeks": "Weeks 7 to 11",
+     "units": "Strings to Tuples"
+    },
+    {
+     "weeks": "Weeks 12 to 17",
+     "units": "Regular Expressions to Data Visualization"
+    }
+   ]
+  },
+  "build": [
+   "Autograded assignments",
+   "Programs that read files, the web and databases"
+  ],
+  "walkthroughs": [
+   {
+    "title": "Installing Python, together",
+    "covers": "Installing Python, Why Program?"
+   },
+   {
+    "title": "Your first loops",
+    "covers": "Loops and Iterations"
+   }
+  ]
+ },
+ {
+  "id": "github",
+  "title": "Git, GitHub and going live",
+  "level": "Beginner",
+  "language": "Git, Markdown",
+  "file": "README.md",
+  "summary": "GitHub Skills exercises: Introduction to GitHub, then GitHub Pages, done inside real repositories.",
+  "course": {
+   "name": "Introduction to GitHub and GitHub Pages",
+   "provider": "GitHub Skills",
+   "url": "https://github.com/skills/introduction-to-github",
+   "free": true,
+   "freeEvidence": {
+    "quote": "GitHub Pages is available in public repositories with GitHub Free and GitHub Free for organizations",
+    "where": "Quickstart for GitHub Pages",
+    "url": "https://docs.github.com/en/pages/quickstart"
+   },
+   "note": "Both exercises are public templates under the MIT licence. You need a free GitHub account; GitHub recommends a public repository, since private ones use Actions minutes."
+  },
+  "sources": [
+   {
+    "title": "GitHub Skills, Introduction to GitHub",
+    "url": "https://github.com/skills/introduction-to-github"
+   },
+   {
+    "title": "GitHub Skills, GitHub Pages",
+    "url": "https://github.com/skills/github-pages"
+   },
+   {
+    "title": "GitHub Docs, Quickstart for GitHub Pages",
+    "url": "https://docs.github.com/en/pages/quickstart"
+   }
+  ],
+  "checked": "2026-11-03",
+  "unitsLabel": "Steps",
+  "units": [
+   "Create a branch",
+   "Commit a file",
+   "Open a pull request",
+   "Merge your pull request",
+   "Enable GitHub Pages",
+   "Configure your site",
+   "Customize your home page",
+   "Create a blog post"
+  ],
+  "pace": {
+   "weeks": 2,
+   "hours": "1 to 2 hours",
+   "plan": [
+    {
+     "weeks": "Week 1",
+     "units": "Introduction to GitHub"
+    },
+    {
+     "weeks": "Week 2",
+     "units": "GitHub Pages"
+    }
+   ]
+  },
+  "build": [
+   "A profile README",
+   "A site live at username.github.io"
+  ],
+  "walkthroughs": [
+   {
+    "title": "Your first pull request",
+    "covers": "Introduction to GitHub"
+   },
+   {
+    "title": "Going live on GitHub Pages",
+    "covers": "GitHub Pages"
+   }
+  ]
+ }
+]

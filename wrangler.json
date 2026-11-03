@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "womencancode",
+  "main": "src/wcc.mjs",
+  "compatibility_date": "2025-10-01",
+  "assets": { "directory": "public", "binding": "ASSETS", "not_found_handling": "none" },
+  "observability": { "enabled": true },
+  "triggers": { "crons": ["17 */2 * * *"] },
+  "vars": { "DEPLOYMENT_ENVIRONMENT": "development" },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "blackabc", "database_id": "local", "migrations_dir": "migrations" }
+  ]
+}

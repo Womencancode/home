@@ -1,0 +1,8 @@
+node_modules
+dist
+.wrangler
+.dev.vars
+wrangler.staging.json
+wrangler.production.json
+*.log
+.DS_Store

@@ -1,0 +1,260 @@
+{
+"NG": [
+"Nigerian",
+"Nigerians",
+"Naija"
+],
+"GH": [
+"Ghanaian",
+"Ghanaians"
+],
+"KE": [
+"Kenyan",
+"Kenyans"
+],
+"ZA": [
+"South African",
+"South Africans",
+"Mzansi"
+],
+"ET": [
+"Ethiopian",
+"Ethiopians"
+],
+"SN": [
+"Senegalese"
+],
+"CI": [
+"Ivorian",
+"Ivorians",
+"Ivory Coast"
+],
+"CM": [
+"Cameroonian",
+"Cameroonians"
+],
+"CD": [
+"DR Congo",
+"DRC",
+"Congolese"
+],
+"CG": [
+"Congo-Brazzaville"
+],
+"RW": [
+"Rwandan",
+"Rwandans"
+],
+"UG": [
+"Ugandan",
+"Ugandans"
+],
+"TZ": [
+"Tanzanian",
+"Tanzanians"
+],
+"ZW": [
+"Zimbabwean",
+"Zimbabweans"
+],
+"ZM": [
+"Zambian",
+"Zambians"
+],
+"MW": [
+"Malawian",
+"Malawians"
+],
+"MZ": [
+"Mozambican",
+"Mozambicans"
+],
+"AO": [
+"Angolan",
+"Angolans"
+],
+"BW": [
+"Motswana",
+"Batswana"
+],
+"NA": [
+"Namibian",
+"Namibians"
+],
+"ML": [
+"Malian",
+"Malians"
+],
+"BF": [
+"Burkinabe",
+"Burkinabè"
+],
+"NE": [
+"Nigerien"
+],
+"BJ": [
+"Beninese"
+],
+"TG": [
+"Togolese"
+],
+"LR": [
+"Liberian",
+"Liberians"
+],
+"SL": [
+"Sierra Leonean",
+"Sierra Leoneans"
+],
+"GN": [
+"Guinean",
+"Guineans"
+],
+"GM": [
+"Gambian",
+"Gambians"
+],
+"CV": [
+"Cape Verdean",
+"Cabo Verdean"
+],
+"SO": [
+"Somali",
+"Somalis"
+],
+"ER": [
+"Eritrean",
+"Eritreans"
+],
+"SD": [
+"Sudanese"
+],
+"SS": [
+"South Sudanese"
+],
+"TD": [
+"Chadian"
+],
+"BI": [
+"Burundian"
+],
+"MG": [
+"Malagasy"
+],
+"MU": [
+"Mauritian"
+],
+"LS": [
+"Basotho"
+],
+"SZ": [
+"Eswatini",
+"Swazi"
+],
+"GA": [
+"Gabonese"
+],
+"JM": [
+"Jamaican",
+"Jamaicans"
+],
+"TT": [
+"Trinidad",
+"Trinidadian",
+"Tobago",
+"Trinbago"
+],
+"BB": [
+"Barbadian",
+"Bajan",
+"Bajans"
+],
+"HT": [
+"Haitian",
+"Haitians"
+],
+"BS": [
+"Bahamian",
+"Bahamians"
+],
+"GY": [
+"Guyanese"
+],
+"GD": [
+"Grenadian"
+],
+"LC": [
+"Saint Lucia",
+"St Lucia",
+"Saint Lucian"
+],
+"VC": [
+"Vincentian",
+"St Vincent"
+],
+"AG": [
+"Antiguan",
+"Antigua"
+],
+"DM": [
+"Dominica"
+],
+"KN": [
+"St Kitts",
+"Kittitian",
+"Nevis"
+],
+"DO": [
+"Dominican Republic"
+],
+"CU": [
+"Cuban",
+"Cubans"
+],
+"BZ": [
+"Belizean"
+],
+"SR": [
+"Surinamese"
+],
+"BR": [
+"Brazilian",
+"Brazilians",
+"Afro-Brazilian"
+],
+"CO": [
+"Colombian",
+"Afro-Colombian"
+],
+"US": [
+"African American",
+"African Americans",
+"Black American",
+"Black Americans"
+],
+"GB": [
+"Black British"
+],
+"CA": [
+"Black Canadian",
+"Black Canadians"
+],
+"FR": [
+"Afro-French"
+],
+"PR": [
+"Puerto Rican"
+],
+"PA": [
+"Panamanian",
+"Afro-Panamanian"
+],
+"PE": [
+"Afro-Peruvian"
+],
+"_name_alone_is_ambiguous": [
+"TD",
+"JO",
+"GE"
+]
+}
